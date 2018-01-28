@@ -32,7 +32,7 @@
   
 .EXAMPLE
 
-crack-keepassfile -binpath "C:\program files (x86)\KeePass2x" -pwdfile "c:\software\pwdlist.txt" -targetfile "c:\software\posh.kdbx"
+crack-keepassfile -binpath "C:\program files (x86)\KeePass2x" -pwdpath "c:\software\pwdlist.txt" -targetfile "c:\software\posh.kdbx"
 
 .TODO
 
